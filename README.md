@@ -1,4 +1,4 @@
-# math_540_project
+An Analysis of Bike Rentals by User Type through Ridge, Lasso, and Group Lasso Penalization Techniques 
 
 Abstract
  This project seeks to create a predictive model for the number of hourly bike rentals from a Washington D.C. bikeshare using the Lasso and Ridge Regression. By further dividing the rentals into casual and registered user rentals, we observed differing levels of predictability for the features present in the models. Later, the Group Lasso model was employed to eliminate predetermined groups of multicollinear  variables such as Days of the Week, Months, and Hourly Categorical Descriptions of Weather Conditions.   
